@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+.alert {
+  border: solid 1px;
+  padding: 5px;
+  text-align: center;
+  color: white;
+  margin: 10px;
+}
+.success {
+  border: darkgreen;
+  background: rgba(0, 128, 0, 0.71);
+}
+.warning {
+  border: darkred;
+  background: rgba(255, 0, 0, 0.71);
+}
